@@ -1,0 +1,7 @@
+faster-whisper>=1.1.0
+sounddevice>=0.4.6
+numpy>=1.26
+pystray>=0.19.5
+pillow>=10.0
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
